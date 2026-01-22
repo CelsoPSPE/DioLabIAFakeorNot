@@ -1,46 +1,28 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Fake IA
 
-## 🚀 Introdução
+## Descrição do projeto
+Simples vídeos de avatar criados por IA para o bootcamp da Nexa.
 
-> Woooow! Look at this 👀
+## Tecnologias Utilizadas
+As tecnologias utilizadas para esse desafio foram a IA de visão computacional D-ID, a LLM Deepseek, Empacotador flatpak e a ferramenta de edição de video Openshot no sistema
+Linux Mint 21.3 Cinnamon e o Git.
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+## Processo de Criação
+ - A foto que serviria de base para o avatar foi tirada pelo aparelho celular pessoal contra a luz e com expressão neutra.
+ - Criação de conta nas plataformas de IA citadas.
+ - Solicitação de um texto padrão para o Deepseek.
+ - Importação e configuração requiridas no D-ID para gerar o conteúdo.
+ - Criação de 2 vídeos separados para melhor proveito dos creditos disponibilizados no free trial.
+ - Instalação da ferramenta Openshot via flatpak.
+ - Edição e exportação do resultado final
+ 
+## Resultados
+- Vídeo criado: IAFake
+- Similaridade com a realidade: 60%
+- Tempo gasto: 22 minutos
+- Custo financeiro: 0
+- Conhecimento e experiência adquiridos em IA com visão computacional.
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
-
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
+## Reflexão
+Criar algo "natty" (natural) com IA é um paradoxo fascinante. Quanto mais perfeita a tecnologia, mais percebemos o valor das imperfeições humanas. O avatar gerado pela D-ID impressiona pela manipulação, mas ainda falta a "alma" das microexpressões espontâneas, reações ao ambiente e a naturalidade. A lição mais valiosa foi entender que a IA não substitui a criatividade humana, mas amplifica nossas possibilidades de presença e de comunicação.
